@@ -1,34 +1,35 @@
-# stationeers.modding.template
+# Higher Capacity Transformers
 
-Template project for a Unity Stationeers mod.
+## Description
 
-## Instructions
+TBD
 
-Clone this project or download as a zip. The project root folder will be used as
-the product name, but you can change that during the project setup. 
+## Installation
 
-a Wizard will guide you to perform the basic setup for the project.
+TBD
 
-![Project setup wizard](./Assets/Editor/WizardPopup.png)
+### Dependencies
 
-This process will create:
- 
-  - About/ content, including about.xml, preview.png and thumb.png.
-  - Scripts/ content, with the main Mod entry point, that will register the 
-  prefabs in the game
-  - A default Assembly definition to correctly make use of the stationeers dlls.
+* [StationeersLaunchPad](https://github.com/StationeersLaunchPad/StationeersLaunchPad)
 
-## Notes
+### Licensing
 
-The project includes the following packages:
-  - stationeers.modding.exporter
-  - StationeersModdingTools (Optional)
+This work is licensed as follows:
 
-The project uses the following Player Settings:
- - Company Name
- - Product Name
- - Bundle version
+* [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html). See [here](./LICENSE)
+	+ You are free to:
+		- Use : unpack and use the material in any computer or device
+		- Redistribute : redistribute the original package in any medium
+		- Adapt : Reuse, modify or incorporate source code into your works (and redistribute it!)
+	+ Under the following terms:
+		- You retain any copyright notices
+		- You recognise and respect any trademarks
+		- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs
+		- You credit the author and republish the copyright notices on your works where the code is used
+		- You relicense (and fully comply) your works using GPL 3.0
+			- Please note that upgrading the license to any posterior GPL IS NOT ALLOWED for this work, as the author DID NOT added the "or (at your option) any later version" on the license.
+		- You don't mix your work with GPL incompatible works.
 
- ### Credits
- Originally created by @ilodev
- Now mainatained by @Michael-Codelabs
+Releases prior to 2.0.0.0 remain licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Additionally, check [this statement from CC](https://creativecommons.org/2015/10/08/cc-by-sa-4-0-now-one-way-compatible-with-gplv3/).
+
+Please note the copyrights and trademarks in [NOTICE](./NOTICE)
