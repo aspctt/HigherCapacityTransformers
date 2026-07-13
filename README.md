@@ -2,11 +2,17 @@
 
 ## Description
 
-TBD
+A Stationeers mod that increases the maximum power output of the Medium and Large Transformers:
+
+* Medium Transformer: 25,000 W → 100,000 W (standard and reversed variants)
+* Large Transformer: 50,000 W → 500,000 W
 
 ## Installation
 
-TBD
+1. Install [BepInEx](https://github.com/BepInEx/BepInEx) and [StationeersLaunchPad](https://github.com/StationeersLaunchPad/StationeersLaunchPad) (see dependency link below for setup instructions).
+2. Download `HigherCapacityTransformers` from the [Releases](../../releases) page.
+3. Unzip and place the folder into your Stationeers mods folder (`%HOME%/Documents/My Games/Stationeers/mods`) or subscribe via the Steam Workshop.
+4. Launch the game — StationeersLaunchPad will load the mod automatically.
 
 ### Dependencies
 
@@ -16,7 +22,7 @@ TBD
 
 This work is licensed as follows:
 
-* [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.html). See [here](./LICENSE)
+* [GPL 3.0 or later](https://www.gnu.org/licenses/gpl-3.0.html). See [here](./LICENSE)
 	+ You are free to:
 		- Use : unpack and use the material in any computer or device
 		- Redistribute : redistribute the original package in any medium
@@ -26,10 +32,6 @@ This work is licensed as follows:
 		- You recognise and respect any trademarks
 		- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs
 		- You credit the author and republish the copyright notices on your works where the code is used
-		- You relicense (and fully comply) your works using GPL 3.0
-			- Please note that upgrading the license to any posterior GPL IS NOT ALLOWED for this work, as the author DID NOT added the "or (at your option) any later version" on the license.
-		- You don't mix your work with GPL incompatible works.
-
-Releases prior to 2.0.0.0 remain licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Additionally, check [this statement from CC](https://creativecommons.org/2015/10/08/cc-by-sa-4-0-now-one-way-compatible-with-gplv3/).
+		- You relicense (and fully comply) your works using GPL 3.0 or any later version, at your option
 
 Please note the copyrights and trademarks in [NOTICE](./NOTICE)
